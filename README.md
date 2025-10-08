@@ -1,87 +1,99 @@
-# Pagariya Exports App 📱
+# 🚀 Pagariya Exports App
 
-![Splash Screen](./screenshots/splash.png)
-![Login Screen](./screenshots/login.png)
-![Home Tabs](./screenshots/home_tabs.png)
-![User Selection](./screenshots/user_selection.png)
-![Product Screen](./screenshots/product.png)
-![Message Screen](./screenshots/message.png)
+![App Screenshot](./screenshots/splash.png)
 
 ---
 
-**Frontend Built By:** Me 💻  
-**Role:** Full App Frontend Development (UI, Navigation, State Management, API Integration)  
-**Status:** Completed – App currently maintained by company  
-**Code Privacy:** ❌ Code not shared due to company privacy  
+## ⚡ Frontend Built By Me  
+💻 **Role:** Full Frontend Development (UI, Navigation, API Integration)  
+🔒 **Note:** Code cannot be shared due to company privacy  
 
 ---
 
-## Overview  
+## 📱 Overview  
 
-Pagariya Exports App is a **dealer & miller management mobile application** designed to streamline stock management and communication. The app allows users to log in, select dealers/millers, add products, and send custom messages about stock updates efficiently.  
+Pagariya Exports App is a **Dealer & Miller Management Mobile Application** that helps manage stock, products, and customer communication efficiently.  
 
-> ⚡ **Important:** I developed the **entire frontend of this app** including all screens, navigation, components, and integration with APIs. The backend and codebase belong to the company and are not shared here for privacy reasons.  
+- Users can log in with credentials provided by the admin.  
+- Dealers & Millers are displayed in separate tabs.  
+- Products can be added and messages can be composed & sent.  
 
----
-
-## Features  
-
-### 1. Splash & Onboarding Screen  
-- Custom splash screen with company logo.  
-- Onboarding welcome message with **Get Started** button.  
-- Fully responsive design.  
-
-### 2. User Login  
-- Login using credentials provided by admin.  
-- Basic input validation and secure login flow.  
-
-### 3. Home Screen & Tabs  
-- **Top Tabs:** Dealer & Miller list (fetched from API).  
-- **Bottom Tabs:** Home, Trade, Profile.  
-- Select multiple users or select all/unselect all functionality.  
-
-### 4. User Selection  
-- View selected users in a clean card layout.  
-- Remove individual users if needed.  
-- Proceed to next screen to add product details.  
-
-### 5. Product Management  
-- Fetch product list from API.  
-- Select product, quantity, and unit (KG, Quintal, Ton).  
-- Navigate to **Message Screen** with selected data.  
-
-### 6. Message Composition  
-- View product details before sending message.  
-- Edit message template before sending.  
-- Sends stock update messages to selected users efficiently.  
+> **Important:** The **entire frontend** was developed by me, showcasing my React Native skills.  
 
 ---
 
-## Technologies Used  
-- **React Native** – for cross-platform mobile development  
-- **LinearGradient** – for gradient backgrounds  
-- **DropDownPicker** – for product & unit selection  
-- **React Navigation** – stack and tab navigation  
-- **API Integration** – fetch dealers, millers, products from backend  
-- **Responsive Design** – works on all screen sizes  
+## ✨ Features  
+
+### Splash & Onboarding
+- Custom splash screen with company logo  
+- Welcome message with **Get Started** button  
+- Fully responsive  
+
+### Login
+- User authentication using ID & Password  
+- Input validation & secure flow  
+
+### Home & Tabs
+- **Top Tabs:** Dealer & Miller lists fetched from API  
+- **Bottom Tabs:** Home, Trade, Profile  
+- Multi-selection of users with select all/unselect all  
+
+### User Selection
+- Display selected users in cards  
+- Remove users if needed  
+- Proceed to product selection  
+
+### Product Management
+- Fetch products from API  
+- Select product, quantity, and unit (KG, Quintal, Ton)  
+- Navigate to message composition  
+
+### Message Composition
+- View product details  
+- Edit message before sending  
+- Send stock update messages to selected users  
 
 ---
 
-## My Contributions  
-- ✅ Designed and implemented **full frontend UI** for all screens.  
-- ✅ Integrated **API calls** for users & products (frontend integration).  
-- ✅ Built **navigation flow** between onboarding, login, user selection, product management, and messaging screens.  
-- ✅ Created **custom components** for user cards, message templates, and dropdowns.  
-- ✅ Ensured **responsive layouts** and smooth user experience.  
+## 🛠 Technologies Used  
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![LinearGradient](https://img.shields.io/badge/LinearGradient-F0DB4F?style=for-the-badge&logo=none&logoColor=black)
+![DropDownPicker](https://img.shields.io/badge/DropDownPicker-4FC08D?style=for-the-badge&logo=none&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-FF2D20?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
-## App Status  
-- Completed and currently deployed by the company.  
-- All code is proprietary and **cannot be shared**; only screenshots are included for demonstration.  
+## 💪 My Contributions  
+- Designed & implemented **full frontend UI**  
+- Integrated **API calls** for users & products  
+- Built **navigation flow** across all screens  
+- Created **custom reusable components**  
+- Ensured **responsive design** and smooth UX  
 
 ---
 
-## Notes  
-- Screenshots included are for demonstration purposes only.  
-- This app’s **frontend was entirely built by me**, showcasing my skills in React Native development.  
+## 📷 Screenshots  
+
+### Splash & Login
+![Splash](./screenshots/splash.png) ![Login](./screenshots/login.png)  
+
+### Home & User Selection
+![Home Tabs](./screenshots/home_tabs.png) ![User Selection](./screenshots/user_selection.png)  
+
+### Product & Message
+![Product](./screenshots/product.png) ![Message](./screenshots/message.png)  
+
+---
+
+## 🔒 Code Privacy  
+
+> ⚠️ **Due to company confidentiality, the app’s source code cannot be shared publicly.**  
+> Only screenshots are provided to demonstrate my work.  
+
+---
+
+## ✅ App Status  
+
+- in devlopment  
+- Frontend fully built by me  
