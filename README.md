@@ -53,11 +53,12 @@ Pagariya Exports App is a **Dealer & Miller Management Mobile Application** that
 <p float="left">
   <img src="https://github.com/user-attachments/assets/79497cca-659d-4c5a-bee8-69826424e7a3" width="200"/>
   <img src="https://github.com/user-attachments/assets/03ebed35-d26a-4d78-abdd-56d1cc3e7c2d" width="200"/>
-  <img src="https://github.com/user-attachments/assets/482f88a3-a173-4a4b-8253-6e4e814e078c" width="200"/>
+ 
 </p>
 
 ### Product & Message
 <p float="left">
+   <img src="https://github.com/user-attachments/assets/482f88a3-a173-4a4b-8253-6e4e814e078c" width="200"/>
   <img src="https://github.com/user-attachments/assets/a34875ee-4732-4794-b9b6-26a526561a7c" width="200"/>
   <img src="https://github.com/user-attachments/assets/756b1b01-b713-4232-b787-533af3fa7f15" width="200"/>
   <img src="https://github.com/user-attachments/assets/d0562cc6-f652-4a8b-899c-818c642a703f" width="200"/>
