@@ -76,5 +76,5 @@ Pagariya Exports App is a **Dealer & Miller Management Mobile Application** that
 
 ## ✅ App Status  
 
-- Completed and currently deployed by the company  
+- Currently **held by the company**, not publicly deployed   
 - Frontend fully built by me  
