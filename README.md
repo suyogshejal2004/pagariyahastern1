@@ -1,7 +1,5 @@
 # 🚀 Pagariya Exports App
 
-![App Screenshot](./screenshots/splash.png)
-
 ---
 
 ## ⚡ Frontend Built By Me  
@@ -14,7 +12,7 @@
 
 Pagariya Exports App is a **Dealer & Miller Management Mobile Application** that helps manage stock, products, and customer communication efficiently.  
 
-- Users can log in with credentials provided by the admin.  
+- Users log in with credentials provided by the admin.  
 - Dealers & Millers are displayed in separate tabs.  
 - Products can be added and messages can be composed & sent.  
 
@@ -24,34 +22,12 @@ Pagariya Exports App is a **Dealer & Miller Management Mobile Application** that
 
 ## ✨ Features  
 
-### Splash & Onboarding
-- Custom splash screen with company logo  
-- Welcome message with **Get Started** button  
-- Fully responsive  
-
-### Login
-- User authentication using ID & Password  
-- Input validation & secure flow  
-
-### Home & Tabs
-- **Top Tabs:** Dealer & Miller lists fetched from API  
-- **Bottom Tabs:** Home, Trade, Profile  
-- Multi-selection of users with select all/unselect all  
-
-### User Selection
-- Display selected users in cards  
-- Remove users if needed  
-- Proceed to product selection  
-
-### Product Management
-- Fetch products from API  
-- Select product, quantity, and unit (KG, Quintal, Ton)  
-- Navigate to message composition  
-
-### Message Composition
-- View product details  
-- Edit message before sending  
-- Send stock update messages to selected users  
+- Splash & Onboarding  
+- Login & Authentication  
+- Top Tabs (Dealer & Miller) + Bottom Tabs (Home, Trade, Profile)  
+- User Selection & Multi-selection  
+- Product Management & Quantity Input  
+- Message Composition & Editing  
 
 ---
 
@@ -64,25 +40,29 @@ Pagariya Exports App is a **Dealer & Miller Management Mobile Application** that
 
 ---
 
-## 💪 My Contributions  
-- Designed & implemented **full frontend UI**  
-- Integrated **API calls** for users & products  
-- Built **navigation flow** across all screens  
-- Created **custom reusable components**  
-- Ensured **responsive design** and smooth UX  
-
----
-
 ## 📷 Screenshots  
 
 ### Splash & Login
-![Splash](./screenshots/splash.png) ![Login](./screenshots/login.png)  
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/c123caa0-88e8-4f01-89d8-fb3dececd672" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4495c27c-d0fb-48bf-90c5-949639c8990f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0b0967db-5913-4585-b4c5-cb9a1d01888d" width="200"/>
+</p>
 
 ### Home & User Selection
-![Home Tabs](./screenshots/home_tabs.png) ![User Selection](./screenshots/user_selection.png)  
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/79497cca-659d-4c5a-bee8-69826424e7a3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/03ebed35-d26a-4d78-abdd-56d1cc3e7c2d" width="200"/>
+  <img src="https://github.com/user-attachments/assets/482f88a3-a173-4a4b-8253-6e4e814e078c" width="200"/>
+</p>
 
 ### Product & Message
-![Product](./screenshots/product.png) ![Message](./screenshots/message.png)  
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/a34875ee-4732-4794-b9b6-26a526561a7c" width="200"/>
+  <img src="https://github.com/user-attachments/assets/756b1b01-b713-4232-b787-533af3fa7f15" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d0562cc6-f652-4a8b-899c-818c642a703f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1aa2319e-6272-49ed-99b0-d3e681e19cb5" width="200"/>
+</p>
 
 ---
 
@@ -95,5 +75,5 @@ Pagariya Exports App is a **Dealer & Miller Management Mobile Application** that
 
 ## ✅ App Status  
 
-- in devlopment  
+- Completed and currently deployed by the company  
 - Frontend fully built by me  
