@@ -9,15 +9,18 @@
 
 ---
 
-**Built with:** React Native, LinearGradient, DropDownPicker, React Navigation, API Integration  
-**Role:** Full App Development (UI, Navigation, API Integration, State Management)  
+**Frontend Built By:** Me 💻  
+**Role:** Full App Frontend Development (UI, Navigation, State Management, API Integration)  
 **Status:** Completed – App currently maintained by company  
+**Code Privacy:** ❌ Code not shared due to company privacy  
 
 ---
 
 ## Overview  
 
 Pagariya Exports App is a **dealer & miller management mobile application** designed to streamline stock management and communication. The app allows users to log in, select dealers/millers, add products, and send custom messages about stock updates efficiently.  
+
+> ⚡ **Important:** I developed the **entire frontend of this app** including all screens, navigation, components, and integration with APIs. The backend and codebase belong to the company and are not shared here for privacy reasons.  
 
 ---
 
@@ -65,20 +68,20 @@ Pagariya Exports App is a **dealer & miller management mobile application** desi
 ---
 
 ## My Contributions  
-- Designed and implemented **full UI** for all screens.  
-- Integrated **API calls** for users & products.  
-- Built **navigation flow** between onboarding, login, user selection, product management, and messaging screens.  
-- Created **custom components** for user cards, message templates, and dropdowns.  
-- Ensured **responsive layouts** and smooth user experience.  
+- ✅ Designed and implemented **full frontend UI** for all screens.  
+- ✅ Integrated **API calls** for users & products (frontend integration).  
+- ✅ Built **navigation flow** between onboarding, login, user selection, product management, and messaging screens.  
+- ✅ Created **custom components** for user cards, message templates, and dropdowns.  
+- ✅ Ensured **responsive layouts** and smooth user experience.  
 
 ---
 
 ## App Status  
 - Completed and currently deployed by the company.  
-- All code is proprietary; only screenshots are shared here for demonstration.  
+- All code is proprietary and **cannot be shared**; only screenshots are included for demonstration.  
 
 ---
 
 ## Notes  
 - Screenshots included are for demonstration purposes only.  
-- This app was entirely built by me as part of my professional work.  
+- This app’s **frontend was entirely built by me**, showcasing my skills in React Native development.  
